@@ -71,7 +71,7 @@ img {
 	position: relative;
 	z-index: 2;
 	width: 450px;
-	height: 650px;
+	height: 485px;
 	background: rgb(0, 0, 0, 0.65);
 	margin: 0 auto;
 	display: flex;
@@ -79,7 +79,7 @@ img {
 	justify-content: flex-start;
 	align-items: flex-start;
 	text-align: left;
-	padding: 60px 65px;
+	padding: 60px 60px;
 }
 
 .formm h1 {
