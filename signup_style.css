@@ -21,7 +21,20 @@ h3,
 h4 {
 	color: #fff;
 }
-
+.amazflix-name{
+	color: red;
+	font-size: 50px;
+	margin-top: 14px;
+}
+.tagline{
+	font-size: 20px;
+	margin-left: 65px;
+	margin-bottom: 20px;
+}
+.plans{
+	font-size: 17px;
+	margin-bottom: 20px;
+}
 a {
 	color: #fff;
 	text-decoration: none;
@@ -79,7 +92,7 @@ img {
 	justify-content: flex-start;
 	align-items: flex-start;
 	text-align: left;
-	padding: 60px 60px;
+	padding: 20px 60px;
 }
 
 .formm h1 {
