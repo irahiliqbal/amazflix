@@ -1,0 +1,1 @@
+An interactive and user friendly website that lets user to experience netflix and other OTTs at per day basis. Users can buy subscription of Netflix ,a worldwide movies and tv series streaming website at a per day basis. Providing user with an outstanding flexible and ease of use with pocket friendly prices.
