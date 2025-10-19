@@ -11,7 +11,7 @@ const close = document.getElementById('close');
 const container = document.getElementById("container");
 const nav = document.getElementById("nav")
 
-const API_KEY = "e64f3b3e26f432be01ccdbacadd96982";
+const API_KEY = "c8efce81e16e7511ffe5c5c49392ce08";
 const baseURL = "https://api.themoviedb.org/3";
 const imageUrl = "https://image.tmdb.org/t/p/original/";
 
@@ -96,4 +96,5 @@ window.addEventListener("scroll", function () {
     } else {
         nav.style.background = "none";
     }
+
 })
